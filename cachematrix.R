@@ -20,7 +20,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Calculates the inverse of a matrix created by makeChacheMatrix
+## Calculates the inverse of a matrix created by makeCacheMatrix
 ## It checks first if the inverse has already be calculated,
 ## if so, it returns the chached value
 
